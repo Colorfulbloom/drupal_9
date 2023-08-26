@@ -1,0 +1,3 @@
+[submodule "web/modules/contrib/pub_options"]
+	path = web/modules/contrib/pub_options
+	url = git@git.drupal.org:project/pub_options.git
