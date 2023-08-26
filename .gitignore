@@ -9,11 +9,11 @@
 /vendor
 
 # Drupal core files
-/core
+web/core
 
 # Drupal contributed modules and themes
-/modules/contrib
-/themes/contrib
+web/modules/contrib
+web/themes/contrib
 
 # Drupal custom modules and themes (uncomment these lines if you have custom code)
 #/modules/custom
@@ -23,7 +23,8 @@
 /database.sql
 
 # DDEV web root files
-/web/sites/default/files
+web/sites/default/files
+web/sites/default/settings.php
 
 # DDEV backup files
 /.ddev-backups
