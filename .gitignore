@@ -1,0 +1,73 @@
+# DDEV settings and environment files
+/.ddev
+/.env
+
+# DDEV generated files
+/.ddev-generated
+
+# Composer dependencies
+/vendor
+
+# Drupal core files
+/core
+
+# Drupal contributed modules and themes
+/modules/contrib
+/themes/contrib
+
+# Drupal custom modules and themes (uncomment these lines if you have custom code)
+#/modules/custom
+#/themes/custom
+
+# DDEV database dumps
+/database.sql
+
+# DDEV web root files
+/web/sites/default/files
+
+# DDEV backup files
+/.ddev-backups
+
+# Configuration import/export
+/config/sync
+
+# IDE and text editor configuration files (adjust for your specific editor)
+.idea
+.vscode
+
+# Logs and temp files
+/logs
+/tmp
+
+# User-specific files
+*.log
+*.swp
+*.swo
+*.session
+*.sqlite
+
+# Node.js dependencies (if applicable)
+/node_modules
+
+# Composer lock file (only ignore if you're not sharing your project as a package)
+composer.lock
+
+# Environment configuration files (adjust for your specific setup)
+.env.local
+.env.development
+.env.production
+
+# Ignore these if using Drush for Drupal projects (adjust if using other tools)
+/drush/contrib
+/drush/sites
+/drushrc.php
+/drushrc.yml
+/drush.yml
+
+# Ignore these if using Drupal Console for Drupal projects (adjust if using other tools)
+/console
+/drupal.phar
+
+# Ignore backup files created by text editors
+*~
+
