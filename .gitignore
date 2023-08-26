@@ -12,8 +12,8 @@
 web/core
 
 # Drupal contributed modules and themes
-web/modules/contrib
-web/themes/contrib
+web/modules/contrib/*
+web/themes/contrib/*
 
 # Drupal custom modules and themes (uncomment these lines if you have custom code)
 #/modules/custom
