@@ -1,1 +1,0 @@
-name: 'Shoelace components'&#10type: module&#10description: 'Provides Shoelace web UI components to Drupal.'&#10core_version_requirement: ^9.0 || ^10.0&#10package: 'User interface'&#10
