@@ -1,7 +1,3 @@
-# DDEV settings and environment files
-/.ddev
-/.env
-
 # DDEV generated files
 /.ddev-generated
 
