@@ -11,6 +11,9 @@ web/core
 web/modules/contrib/*
 web/themes/contrib/*
 
+# In progress development modules
+web/modules/dev/*
+
 # Drupal custom modules and themes (uncomment these lines if you have custom code)
 #/modules/custom
 #/themes/custom
@@ -67,4 +70,5 @@ composer.lock
 
 # Ignore backup files created by text editors
 *~
+
 

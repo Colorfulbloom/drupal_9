@@ -1,0 +1,25 @@
+{
+  "name": "shoelace_components",
+  "version": "1.0.0",
+  "description": "Drupal module that implements shoelace.style",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@shoelace-style/shoelace": "^2.11.2",
+    "gulp-autoprefixer": "^9.0.0",
+    "gulp-cli": "^2.3.0",
+    "gulp-imagemin": "^9.0.0",
+    "gulp-livereload": "^4.0.2",
+    "gulp-sass": "^5.1.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "gulp-uglifyjs": "^0.6.2",
+    "imagemin-pngquant": "^9.0.2",
+    "node-sass": "^9.0.0"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
