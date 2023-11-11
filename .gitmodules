@@ -1,3 +1,6 @@
 [submodule "shoelace_components"]
 	path = shoelace_components
 	url = git@github.com:Colorfulbloom/shoelace_components.git
+[submodule "web/modules/shoelace_components"]
+	path = web/modules/shoelace_components
+	url = git@github.com:Colorfulbloom/shoelace_components.git
