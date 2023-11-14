@@ -1,0 +1,3 @@
+[submodule "web/modules/dev/shoelace"]
+	path = web/modules/dev/shoelace
+	url = git@git.drupal.org:project/shoelace.git
